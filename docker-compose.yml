@@ -1,7 +1,7 @@
 version: '2'
 services:
     eureka-server:
-        image:  kags23/pmp-server:01
+        image:  kags23/pmp-server:02
         ports:
             -   8761:8761
 
